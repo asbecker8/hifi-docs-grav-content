@@ -20,7 +20,7 @@ As an unreleased app, it does not have the full functionality of the desktop or 
 * We have modified several of High Fidelity's most popular domains to make them more accessible for Android users
 * Under the **Home** tab in the menu, users will find the domains we have optimized for Android
 
-![](androidapp.png)  
+![](androidapp2.png)  
 
 ## Movement Controls
 * **Walking** - When exploring a domain, use the arrows in the bottom left corner to turn and/or walk 
