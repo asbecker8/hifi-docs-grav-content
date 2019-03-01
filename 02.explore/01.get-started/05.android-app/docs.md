@@ -37,7 +37,7 @@ As an unreleased app, it does not have the full functionality of the desktop or 
 * **Set Display Name** - From the **Avatar** tab, you can set a display name
 
 ## Discover and Make Friends
-* **Handshake** - In High Fidelity, you can add people to your connections list by shaking their hand. To shake hands using the Android app XXXXX
+* **Handshake** - In High Fidelity, you can add people to your connections list by shaking their hand. To shake hands using the Android app press the handshake button above the flight button in the bottom right of the screen
 * **Connections List** - Open the **People** tab form the menu to view the friends you've made
 
 
